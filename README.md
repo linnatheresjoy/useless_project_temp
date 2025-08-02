@@ -1,39 +1,29 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# yeasterday weather
 
 
 ## Basic Details
-### Team Name: [Name]
+### individual: Linna Therees Joy
 
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+Yesterday’s Weather Forecaster is a completely useless app that confidently reports yesterday’s weather as if it’s breaking news. It’s perfect for people who love knowing what they just experienced
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People desperately need to know yesterday’s weather — even though they already lived through it. Our app solves this non-existent problem with full passion and zero practicality.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A dramatic weather forecast app that tells you exactly what happened yesterday — with alerts, suggestions, and style — solving nothing, but doing it beautifully.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- CSS
+- java script
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -47,14 +37,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1d8p6IJOmu7X_63RD3TU3B9wBGdWxMjq_/view?usp=drivesdk
+https://drive.google.com/file/d/1d6Smt3G1NPc9TVH7q1ELrqJzwfGyYd8Z/view?usp=drivesdk
+https://drive.google.com/file/d/1d54Xan-95-_VCKJDAuHfAzabMChzbtXV/view?usp=drivesdk
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
