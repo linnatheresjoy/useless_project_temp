@@ -39,9 +39,9 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![](https://drive.google.com/file/d/1d8p6IJOmu7X_63RD3TU3B9wBGdWxMjq_/view?usp=drivesdk)
-![](https://drive.google.com/file/d/1d6Smt3G1NPc9TVH7q1ELrqJzwfGyYd8Z/view?usp=drivesdk) 
-![](https://drive.google.com/file/d/1d54Xan-95-_VCKJDAuHfAzabMChzbtXV/view?usp=drivesdk)
+![]()
+![]() 
+![]()
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
