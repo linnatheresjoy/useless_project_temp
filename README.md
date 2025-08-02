@@ -40,7 +40,7 @@ For Software:
 
 Screenshots (Add at least 3)
 ![](https://github.com/linnatheresjoy/useless_project_temp/blob/24da2953b5f7627be5c97d9e10552d62e50948c1/Screenshot%202025-08-02%20055742.png)
-![]() 
+![](https://github.com/linnatheresjoy/useless_project_temp/blob/f448b15f278567fce0a3c3e11f9f9abb1f21321c/Screenshot%202025-08-02%20055809.png) 
 ![]()
 
 Diagrams
